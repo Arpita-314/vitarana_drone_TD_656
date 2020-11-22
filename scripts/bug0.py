@@ -1,5 +1,7 @@
 #! /usr/bin/env python
 
+#we are not implementing the bug 0 algo. this is just for example
+
 # import ros stuff
 import rospy
 # import ros message
